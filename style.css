@@ -3,6 +3,10 @@ body {
   color: white;
 }
 
+h1 {
+  color: #c0392b;
+}
+
 p {
   font-size: 20px;
 }
